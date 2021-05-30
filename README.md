@@ -1,5 +1,8 @@
 # warehouse
 
+## Demo
+https://warehouse511.netlify.app/
+
 ## Build Setup
 
 ```bash
